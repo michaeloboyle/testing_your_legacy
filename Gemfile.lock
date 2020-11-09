@@ -11,7 +11,7 @@ GEM
     excon (0.49.0)
     json (1.8.3)
     minitest (5.8.3)
-    rake (10.4.2)
+    rake (13.0.1)
     sumo-search (2.1.0)
       clamp (>= 0.6.3)
       excon (>= 0.32)
@@ -22,8 +22,8 @@ PLATFORMS
 
 DEPENDENCIES
   bundler (~> 1.10)
-  minitest
-  rake (~> 10.0)
+  minitest (~> 5.8)
+  rake (~> 13.0)
   testing_your_legacy!
 
 BUNDLED WITH
